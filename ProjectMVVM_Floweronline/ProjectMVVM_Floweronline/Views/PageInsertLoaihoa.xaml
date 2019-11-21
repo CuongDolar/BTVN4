@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:viewmode="clr-namespace:ProjectMVVM_Floweronline.ViewModels"
+             x:Class="ProjectMVVM_Floweronline.Views.PageInsertLoaihoa">
+      <ContentPage.BindingContext>
+          <viewmode:LoaihoaViewModels/>
+      </ContentPage.BindingContext>
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Label Text="Tên loại" Grid.Row="0" Grid.Column="0"/>
+            <Entry Text="{Binding loaiHoa.Maloai , Mode=TwoWay}" Grid.Column="1" Grid.Row="0" />
+            <Button Text="Insert" VerticalOptions="Center" Grid.Column="0" Grid.Row="1" Command="{Binding AddLoaihoa}"/>
+            <Button Text="Update" VerticalOptions="Center" Grid.Column="1" Grid.Row="1" Command="{Binding UpdateLoaihoa}"/>
+            <ListView x:Name="lstloaihoa" VerticalOptions="Center" ItemsSource="{Binding loaihoalist}" SelectedItem="{Binding loaihoa, Mode=TwoWay}"
+                      Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding Maloai, Mode=TwoWay}" Detail="{Binding Tenloai, Mode=TwoWay}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+            </ListView>
+            
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,14 @@
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\bin\Debug\netstandard2.0\ProjectMVVM_Floweronline.deps.json
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\bin\Debug\netstandard2.0\ProjectMVVM_Floweronline.dll
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\bin\Debug\netstandard2.0\ref\ProjectMVVM_Floweronline.dll
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\bin\Debug\netstandard2.0\ProjectMVVM_Floweronline.pdb
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\ProjectMVVM_Floweronline.csprojAssemblyReference.cache
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\ProjectMVVM_Floweronline.AssemblyInfoInputs.cache
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\ProjectMVVM_Floweronline.AssemblyInfo.cs
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\ProjectMVVM_Floweronline.dll
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\ref\ProjectMVVM_Floweronline.dll
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\ProjectMVVM_Floweronline.pdb
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\Views\PageInsertLoaihoa.xaml.g.cs
+C:\xamarin\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\ProjectMVVM_Floweronline\obj\Debug\netstandard2.0\XamlC.stamp
